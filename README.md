@@ -33,6 +33,7 @@ This is an app where the user can enter an X and a Y coordinate for the queen, a
     $ cd queen
     $ cd models
     $ mono queen.exe
+```
 
 
 ## Known Bugs
