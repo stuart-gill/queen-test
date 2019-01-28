@@ -27,7 +27,12 @@ This is an app where the user can enter an X and a Y coordinate for the queen, a
 ```
     $ cd QueenTest.Solution
 ```
-3. Open the project in your preferred text editor.
+3. Open the project in your preferred text editor to edit
+4. To run, change directories and run using Terminal command:
+```
+    $ cd queen
+    $ cd models
+    $ mono queen.exe
 
 
 ## Known Bugs
